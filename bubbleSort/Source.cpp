@@ -52,5 +52,17 @@ int* sort1::selectionSort(int * arr, int size)
 	}
 	return arr;
 }
-sfhgedufdpghivksdjkv
-safdjkngkfn
+
+int* sort1::mergeSort(int * arr, int size)
+{
+
+	for (int i = 0; i < ; i++)
+	{
+		for (int j = ; j++)
+		{
+
+
+		}
+	}
+	return arr;
+}
